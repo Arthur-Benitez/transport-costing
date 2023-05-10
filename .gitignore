@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.jar
+analyses/
+data/
+docs/
+output/
+grace/
+*.RDataTmp*
+debug.log
+Validaciones.R
+resumen-rutas.R
+resumen-fast.R
